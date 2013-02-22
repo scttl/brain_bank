@@ -11,4 +11,4 @@ See [[sw/gollum]]
 2. ```cd ~/repo```
 3. ```git clone https://github.com/scttl/brain_bank.git```
 4. ```gollum```
-And you should be away to the races.
+And you should be away to the races at [[http://localhost:4567]]
